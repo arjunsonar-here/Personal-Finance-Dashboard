@@ -1,0 +1,18 @@
+Requirements of Clients ?
+
+
+1. What is my income ? How much is my expenses ? Want in a timeline fashion? (KPI's)
+
+2. It should be in a (YEAR and Months)
+
+3. KPI (Networth, Income, Saving and expenses %)
+
+4. Expenses Break-Down on basis of months in a Pie-Chart ? (Expense Breakdown)
+
+5. Saving Break-Down on basis of months in a Pie-Chart ? 
+
+6. Expense % , Saving % With Cahnge in Income Month on Month% ?
+
+7. A Tool-Kit 
+
+8. Detailed Statement
